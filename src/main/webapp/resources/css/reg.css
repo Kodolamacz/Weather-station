@@ -1,0 +1,10 @@
+
+body{
+    width: 100%;
+    background-size: contain;
+    background: url('/resources/img/registerPage.jpg') no-repeat;
+
+}
+#regForm{
+    align-content: center; color: red; text-align: center
+}

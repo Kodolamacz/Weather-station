@@ -1,0 +1,6 @@
+body{
+    width: 100%;
+    background-size: contain;
+    background: url('/resources/img/welcome.jpg') no-repeat;
+}
+
